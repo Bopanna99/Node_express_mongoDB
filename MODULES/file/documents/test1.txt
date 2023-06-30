@@ -1,0 +1,3 @@
+All file system operations have synchronous, callback, and promise-based forms, and are accessible using both commonJs syntax and ES6 Modules (ESM)
+
+ Asynchronously append data to a file, creating the file if it does not exist

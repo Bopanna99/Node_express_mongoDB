@@ -1,0 +1,6 @@
+This is my first line of concat
+This is scond line of concat
+Welcome to  nodejs
+we are working readline Module
+It reads the data line by line
+It is a node js Module
